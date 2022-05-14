@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Hexacon-labs/AI_HOLOGLASS_Project_V.1">
-    <img src="images/logo.png" alt="Logo" width="160" height="200">
+    <img src="images/logo.png" alt="Logo" width="130" height="200">
   </a>
 
   <h3 align="center">HOLOGLASS.AI</h3>
