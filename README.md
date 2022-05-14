@@ -33,19 +33,19 @@
     <img src="images/logo.png" alt="Logo" width="160" height="200">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">HOLOGLASS.AI</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    New generation Interactive and Advanced AI 3D holographic Solution
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Hexacon-labs/AI_HOLOGLASS_Project_V.1"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/Hexacon-labs/AI_HOLOGLASS_Project_V.1">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/Hexacon-labs/AI_HOLOGLASS_Project_V.1">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/Hexacon-labs/AI_HOLOGLASS_Project_V.1">Request Feature</a>
   </p>
 </div>
 
@@ -137,7 +137,7 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Hexacon-labs/AI_HOLOGLASS_Project_V.1.git
    ```
 3. Install NPM packages
    ```sh
@@ -210,9 +210,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Hexacon Labs - Email (info@hexaconlabs) - info@hexaconlabs.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Hexacon-labs/AI_HOLOGLASS_Project_V.1](https://github.com/Hexacon-labs/AI_HOLOGLASS_Project_V.1)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
