@@ -29,8 +29,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="100" height="200">
+  <a href="https://github.com/Hexacon-labs/AI_HOLOGLASS_Project_V.1">
+    <img src="images/logo.png" alt="Logo" width="200" height="300">
   </a>
 
 <h3 align="center">project_title</h3>
