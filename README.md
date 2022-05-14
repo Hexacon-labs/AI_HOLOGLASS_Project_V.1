@@ -210,7 +210,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Hexacon Labs - Email (info@hexaconlabs) - info@hexaconlabs.com
+Hexacon Laboratories - Email(info@hexaconlabs) - info@hexaconlabs.com
 
 Project Link: [https://github.com/Hexacon-labs/AI_HOLOGLASS_Project_V.1](https://github.com/Hexacon-labs/AI_HOLOGLASS_Project_V.1)
 
