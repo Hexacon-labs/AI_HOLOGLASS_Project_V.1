@@ -228,7 +228,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
 * [Malven's Grid Cheatsheet](https://grid.malven.co/)
 * [Img Shields](https://shields.io)
-* [Bot vector created by upklyak] (https://www.freepik.com/vectors/bot)
+* [Bot vector created by upklyak](https://www.freepik.com/vectors/bot)
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
